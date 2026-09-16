@@ -11,17 +11,17 @@ etti-website/
 |-- script.js
 |-- README.md
 `-- images/
-    `-- etti-logo.jpeg
+    `-- etti-logo-src.jpeg
 ```
 
 ## Add the real logo
 
 1. Create a folder named `images` next to `index.html`.
 2. Copy the institute logo into it.
-3. Rename the file to `etti-logo.jpeg` (lowercase, no spaces).
+3. Rename the file to `etti-logo-src.jpeg` (lowercase, no spaces).
 4. Refresh the browser. The logo appears automatically.
 
-The page already references the required relative path: `images/etti-logo.jpeg`.
+The page already references the required relative path: `images/etti-logo-src.jpeg`.
 
 ## Run locally
 
@@ -54,6 +54,6 @@ Import the repository at [vercel.com](https://vercel.com), select the project ro
 ## How to run
 
 1. Save all files into a folder called `etti-website`.
-2. Place the logo at `etti-website/images/etti-logo.jpeg`.
+2. Place the logo at `etti-website/images/etti-logo-src.jpeg`.
 3. Open `index.html` in a browser.
 4. Drag the folder to https://app.netlify.com/drop to publish.
