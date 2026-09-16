@@ -46,7 +46,7 @@ Import the repository at [vercel.com](https://vercel.com), select the project ro
 
 ## Contact verification
 
-- Location: Naivas Pearl Building, 2nd Floor, Embu Town, Embu County, Kenya
+- Location: Pearl Center Building, 2nd Floor, Embu Town, Embu County, Kenya
 - Postal address: P.O. BOX 1151-60100, Embu, Kenya
 - Phone: 0729 722 790 or 0714 026 984
 - WhatsApp: +254 729 722 790
